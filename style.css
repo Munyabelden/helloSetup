@@ -1,7 +1,10 @@
 @font-face {
   font-family: 'Roboto';
-  src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
-}
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2')
+  }
 
 .header {
   color: blueviolet;
