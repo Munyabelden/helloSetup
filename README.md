@@ -12,7 +12,7 @@
 
 Hello Microverse 
 
-I added  Html and css linters 
+I added  Html and css linters git \\ 
 Added a header in index.html and gave it some styling
 
 
