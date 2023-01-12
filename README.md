@@ -20,7 +20,6 @@ Added a header in index.html and gave it some styling
 
 
 
-
 <details>
   <summary>Client</summary>
   <ul>
