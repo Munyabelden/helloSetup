@@ -1,13 +1,3 @@
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2')
-  }
-
 .header {
   color: blueviolet;
-  font-family: 'Roboto';
-  font-weight: 600;
 }
