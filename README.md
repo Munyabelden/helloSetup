@@ -212,7 +212,7 @@ I would like to thank...
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="license" href="https://github.com/Munyabelden/helloSetup/blob/hello-microverse/MIT.md">Mit.md</a>
 
 This project is [MIT](./LICENSE) licensed.
 
